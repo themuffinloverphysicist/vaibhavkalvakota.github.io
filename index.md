@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to The Muffin Lover Physicist website!
 
-You can use the [editor on GitHub](https://github.com/themuffinloverphysicist/themuffinloverphysicist.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is a personal website for Vaibhav Kalvakota, his articles, papers, seminars, etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This Github stuff is so fricking cool!!
 
 ### Markdown
 
